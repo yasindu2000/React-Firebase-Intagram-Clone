@@ -1,0 +1,1 @@
+export const DEFAUT_IMAGE_PATH = "/src/assets/images/avatars/default.png";
